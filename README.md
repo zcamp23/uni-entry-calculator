@@ -25,7 +25,7 @@ A **Java desktop application** designed specifically around the **2024** admissi
 
 ## 📄 Academic Documentation & Software Engineering Lifecycle
 
-In addition to the source code, this repository includes the final project report **(in Greek)** which documents the software engineering methodologies applied throughout the development process. Highlights include:
+In addition to the source code, this repository includes the [final project report (in Greek)](docs/Final_paradoteoNEW.pdf) which documents the software engineering methodologies applied throughout the development process. Highlights include:
 
 * **Analysis Phase:** Requirement gathering and prioritization using the **MoSCoW method**, project scheduling via a Gantt chart (Waterfall model), and comprehensive Use Case diagrams and specifications.
 * **Design Phase:** Structural and behavioral UML modeling, including Class diagrams and Sequence diagrams designed in Visual Paradigm.
